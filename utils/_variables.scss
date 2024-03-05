@@ -1,0 +1,14 @@
+// Breakpoints
+$bp-small: 36em; // 576px
+$bp-medium: 48em; // 768px
+$bp-large: 62em; // 992px
+$bp-xlarge: 75em; // 1200px
+$bp-xxlarge: 87.5em; // 1400px
+
+// Font Family
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+$ff-lato: 'Lato', sans-serif;
+$ff-monserrat: 'Monserrat', sans-serif;
